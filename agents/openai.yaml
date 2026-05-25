@@ -1,0 +1,3 @@
+display_name: AI Coding Safety Gate
+short_description: 改代码前必须讨论确认，测试故障先查硬件接线和具体现象
+default_prompt: 在任何 AI coding、调试或测试异常场景中，先执行安全门禁：改代码前必须讨论并获得明确同意；波形、数据、抖动、不稳、死机等问题先排查硬件和具体现象。
