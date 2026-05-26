@@ -107,4 +107,4 @@ Only after explicit approval, proceed to code modification. If another domain sk
 
 - This skill overrides eagerness to fix code quickly.
 - Domain skills may propose algorithms or architecture, but this skill controls whether code can be changed.
-- For embedded competition work, pair with `low-frequency-embedded-assistant`: first hardware and symptom checks, then firmware reasoning, then approved code edits.
+- For embedded competition work, pair with `your-skill-assistant`: first hardware and symptom checks, then firmware reasoning, then approved code edits.
